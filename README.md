@@ -1,11 +1,12 @@
 # DiMart
-This project is a frontend e-commerce website built using HTML, CSS, and JavaScript,Java,MySql. It includes multiple product categories like Beauty Care, Electronics, Fashion, and Shoes with Add to Cart and Search functionality using LocalStorage.
+DiMart is a responsive frontend and backend e-commerce web application built with *HTML, CSS, JavaScript, Java and MySql.  
+It demonstrates practical skills in creating interactive web pages, managing dynamic content, and implementing user-friendly features.
 
 ## Features
-- User Registration & Login
-- Product Listing
-- Add to Cart
-- Order Management
+- Multiple Product Categories:* Beauty Care, Electronics, Fashion, Shoes
+- Add to Cart & Search:  Users can add products to cart and search items easily
+- LocalStorage Integration:  Cart data persists even after page reload
+- Responsive Design: Works well on desktops, tablets, and mobile devices
 
 ## Technologies Used
 - Frontend: HTML, CSS, JavaScript 
